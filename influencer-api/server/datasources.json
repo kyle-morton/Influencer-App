@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mongoDS": {
+    "host": "influencer-app-jisti.mongodb.net",
+    "port": 27017,
+    "url": "mongodb+srv://admin:admin@influencer-app-jisti.mongodb.net/Influencer",
+    "database": "Influencer",
+    "password": "influencer-user",
+    "name": "mongoDS",
+    "user": "influencer-user",
+    "connector": "mongodb"
+  }
+}
